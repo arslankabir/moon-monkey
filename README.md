@@ -61,6 +61,6 @@ npm start
 This is a beta version. Use at your own risk.
 
 ## Contact
-- Project Maintainer: [Your Name]
-- Email: [Your Email]
+- Project Maintainer: Arsalan Kabeer
+- Email: arsalankabeer333@gmail.com
 - Discord: [Optional Discord Link]
