@@ -1,0 +1,66 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build output
+build/
+dist/
+out/
+
+# IDE and Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Sensitive Configuration
+*.pem
+*.key
+*.cert
+
+# Dependency caches
+.npm
+.eslintcache
+.node_repl_history
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Blockchain and Wallet specific
+*.wallet
+*.keystore
+*.seed
+
+# Miscellaneous
+.cache/
+.next/
+.nuxt/
+.serverless/
+.fusebox/
+.dynamodb/
